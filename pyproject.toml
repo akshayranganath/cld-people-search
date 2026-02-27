@@ -8,13 +8,12 @@ version = "0.1.0"
 description = "Python SDK for the Cloudinary People Search API"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = "MIT"
 keywords = ["cloudinary", "people", "face-recognition", "sdk"]
 authors = [{ name = "Akshay Ranganath", email = "akshay.ranganath@gmail.com" }]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
@@ -23,15 +22,15 @@ classifiers = [
     "Topic :: Multimedia :: Graphics",
 ]
 
-[project.urls]
-Homepage = "https://github.com/akshayranganath/cld-people-search"
-Source = "https://github.com/akshayranganath/cld-people-search"
-"Bug Tracker" = "https://github.com/akshayranganath/cld-people-search/issues"
-
 dependencies = [
     "requests>=2.32.0,<3",
     "pydantic~=2.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/akshayranganath/cld-people-search"
+Source = "https://github.com/akshayranganath/cld-people-search"
+"Bug Tracker" = "https://github.com/akshayranganath/cld-people-search/issues"
 
 [project.optional-dependencies]
 dev = [

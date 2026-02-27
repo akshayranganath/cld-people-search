@@ -6,7 +6,7 @@ A typed Python SDK for the [Cloudinary People Search API](https://cloudinary.git
 
 ---
 
-![3D visualization of AI facial recognition technology showing a translucent data-fiber bust being analyzed by digital sensors, set against a dark blue high-tech cloud background.](./hero-image.png)
+![3D visualization of AI facial recognition technology showing a translucent data-fiber bust being analyzed by digital sensors, set against a dark blue high-tech cloud background.](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/cld-people-search-hero-image.png)
 
 ## Installation
 
